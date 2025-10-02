@@ -1,2 +1,1 @@
-# cv2025
-my cv project
+Здесь будут мои проекты по Computer Vision (OpenCV, CNN, Kaggle ...)
